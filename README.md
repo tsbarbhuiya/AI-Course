@@ -12,7 +12,7 @@ This course is all about learning the basics of Artificial Intelligence in a fun
 - Understanding complexity and application of AI algorithms.
 
 ## ⏳ Duration
-January 2025 – June 2025 🔁
+June 2025 – December 2025 🔁
 
 ## 👨‍🏫 Course Supervisor  
 Razorshi Prozzwal Talukder  
