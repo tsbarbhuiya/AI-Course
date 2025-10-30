@@ -1,35 +1,88 @@
-## 📽️ How I Created the AI Course Video & Slides
+### 🧠 AI Tools Exploration
 
-To visually present what I learned in the AI course, I used AI-powered tools to create both a video and a presentation. These tools helped transform my text-based summary into engaging multimedia content.
+## 🎬 AI Course Video
 
----
+This short video demonstrates the overall journey of our Artificial Intelligence course,
+including theoretical concepts and lab-based algorithm & game implementations.
 
-### 🎞️ AI Video Creation (Using Pictory)
+🎥 Watch the Video:
+AI.mp4
 
-**Tool Used:** [Pictory](https://pictory.ai)
+Tool Used: 🪄 Pictory.ai
+Type: Text-to-Video with AI Voiceover
+Duration: ~4 Minutes
 
-**Steps I Followed:**
-1. I selected the **"Script to Video"** feature in Pictory.
-2. I pasted the full course summary titled *"What I Learned in Artificial Intelligence"*.
-3. Pictory automatically split the text into visual scenes, added stock video, and background music.
-4. I selected a voice-over style and adjusted the scene transitions.
-5. The final video was rendered and downloaded for submission.
+## Video Includes:
 
-**Reference Blog:**  
-[Pictory Script to Video Guide](https://pictory.ai/blog/script-to-video-ai/)
+Introduction to AI
 
----
+Approaches of AI & Types of Agents
 
-### 📊 AI Slide Presentation (Using Gamma)
+Search Algorithms (BFS, DFS, A*, Hill Climbing, etc.)
 
-**Tool Used:** [Gamma](https://gamma.app)
+Game Algorithms (Minimax & Alpha-Beta Pruning)
 
-**Steps I Followed:**
-1. I used the **“Paste in text”** option to create a new presentation.
-2. I copied and pasted my structured notes into Gamma.
-3. Gamma automatically generated slides based on the text’s headings and bullet points.
-4. I selected a modern theme, added relevant icons, and fine-tuned the layout.
-5. The final deck was exported and used in my submission.
+AI-based Game Demonstrations (Chess, Tic Tac Toe, Nim)
 
-**Reference Blog:**  
-[Gamma Quick Start Guide](https://help.gamma.app/en/articles/8053661-how-to-start-a-new-deck)
+### 🖼️ AI Course Presentation
+
+The presentation summarizes all theoretical and practical parts of the AI course.
+It visually explains the algorithms, AI agents, environments, and lab implementations.
+
+## 📊 View Presentation:
+
+👉 Click here to open the presentation:
+Presentation - Artificial Intelligence Course.pdf
+
+Tool Used: 🧩 Canva Magic Presentation
+Slides: 12
+Type: AI-Generated Slides (using ChatGPT + Canva)
+
+⚙️ Process & Tools Used
+### 🪄 1. Video Creation Process
+
+Prepared a professional 4-minute script using ChatGPT.
+
+Used Pictory.ai to convert the text into a video with AI narration.
+
+Adjusted voice speed (0.9x) for smoother delivery.
+
+Added visuals and transitions related to AI topics.
+
+Exported and uploaded the video to Google Drive.
+
+Tool Used: Pictory.ai
+
+### 🧩 2. Presentation Creation Process
+
+Used ChatGPT to generate the slide text for all AI topics.
+
+Opened Canva Magic Presentation and pasted the content.
+
+AI automatically created structured slides with design and icons.
+
+Added transitions, screenshots, and animations manually.
+
+Exported the final slides as PDF and uploaded to Google Drive.
+
+Tools Used:
+
+Canva Magic Presentation
+
+ChatGPT
+
+### 📚 Summary
+
+This folder contains all creative work generated using AI tools for the Artificial Intelligence course.
+
+✅ AI-generated Course Video
+✅ AI-generated Presentation Slides
+✅ Documentation of the process
+
+These works showcase how AI tools can be effectively used in education, automation, and creativity.
+
+## 🖋️ Prepared By:
+
+Md. Rakib Ahmed
+
+Department of Computer Science & Engineering
