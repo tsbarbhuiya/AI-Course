@@ -12,7 +12,7 @@ The course was designed to provide both **theoretical understanding** and **hand
 - **Course Name:** Artificial Intelligence  
 - **Course Duration:** 6 Months  
 - **Course Taken by:** Mr. Razorshi Prozzwal Talukder
-- **Student Name:** Md. Rakib Ahmed
+- **Student Name:** Tanvir Anjum Sourav Barbhuiya
 - **Department:** Computer Science & Engineering  
 
 ---
