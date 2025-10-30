@@ -88,4 +88,4 @@ It demonstrates how Artificial Intelligence can be applied in solving real-world
 **Tanvir Anjum Sourav Barbhuiya**
 
 Department of Computer Science & Engineering  
-*(Artificial Intelligence Course – 4 Months)*  
+*(Artificial Intelligence Course – 6 Months)*  
